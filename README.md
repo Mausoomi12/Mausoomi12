@@ -12,7 +12,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mausoomi12" alt="mausoomi12" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/@mausoomir" target="blank"><img src="https://img.shields.io/twitter/follow/@mausoomir?logo=twitter&style=for-the-badge" alt="mausoomir" /></a> </p>
+<p align="center"> <a href="https://twitter.com/mausoomir" target="blank"><img src="https://img.shields.io/twitter/follow/mausoomir?logo=twitter&style=for-the-badge" alt="mausoomir" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://mausoomi-roy-12.netlify.app/](https://mausoomi-roy-12.netlify.app/)
 
