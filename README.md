@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mausoomi Roy</h1>
 <h3 align="center">A passionate MERN stack developer from India who loves to explore new opportunities</h3>
-<img src="C:\Users\Asus\Downloads\WhatsApp Image 2022-09-23 at 12.10.55 PM.jpeg">
+<img src="https://user-images.githubusercontent.com/112415870/230753696-54448a7f-ced2-447f-9997-9df5a72f6a9d.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mausoomi12&label=Profile%20views&color=0e75b6&style=flat" alt="mausoomi12" /> </p>
 
